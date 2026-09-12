@@ -1,0 +1,1133 @@
+{
+  "timestamp_utc": "2026-09-12T06:47:23.957481+00:00",
+  "seed": 13060102,
+  "random_cases_per_exercise": 30,
+  "languages": {
+    "Python": {
+      "status": "passed",
+      "runtime": "C:\\Users\\tai20\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "version": "Python 3.14.7",
+      "exercises": {
+        "bai01": {
+          "status": "passed",
+          "passed": 39,
+          "failed": 0,
+          "seconds": 1.256,
+          "cases": [
+            {
+              "case": "empty",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0323
+            },
+            {
+              "case": "singleton_found",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0313
+            },
+            {
+              "case": "singleton_absent",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0301
+            },
+            {
+              "case": "all_equal",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0309
+            },
+            {
+              "case": "negative_duplicates",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.039
+            },
+            {
+              "case": "ascending",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0331
+            },
+            {
+              "case": "descending",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0308
+            },
+            {
+              "case": "sample",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0373
+            },
+            {
+              "case": "limits",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0324
+            },
+            {
+              "case": "random_00",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0409
+            },
+            {
+              "case": "random_01",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0354
+            },
+            {
+              "case": "random_02",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0353
+            },
+            {
+              "case": "random_03",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0317
+            },
+            {
+              "case": "random_04",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0297
+            },
+            {
+              "case": "random_05",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0291
+            },
+            {
+              "case": "random_06",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0304
+            },
+            {
+              "case": "random_07",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0299
+            },
+            {
+              "case": "random_08",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0361
+            },
+            {
+              "case": "random_09",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.036
+            },
+            {
+              "case": "random_10",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0361
+            },
+            {
+              "case": "random_11",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0345
+            },
+            {
+              "case": "random_12",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.03
+            },
+            {
+              "case": "random_13",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.03
+            },
+            {
+              "case": "random_14",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0347
+            },
+            {
+              "case": "random_15",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0288
+            },
+            {
+              "case": "random_16",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0285
+            },
+            {
+              "case": "random_17",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0433
+            },
+            {
+              "case": "random_18",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0292
+            },
+            {
+              "case": "random_19",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0287
+            },
+            {
+              "case": "random_20",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0278
+            },
+            {
+              "case": "random_21",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0288
+            },
+            {
+              "case": "random_22",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0293
+            },
+            {
+              "case": "random_23",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0293
+            },
+            {
+              "case": "random_24",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.029
+            },
+            {
+              "case": "random_25",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_26",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_27",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0439
+            },
+            {
+              "case": "random_28",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0271
+            },
+            {
+              "case": "random_29",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0288
+            }
+          ]
+        },
+        "bai02": {
+          "status": "passed",
+          "passed": 39,
+          "failed": 0,
+          "seconds": 1.1611,
+          "cases": [
+            {
+              "case": "empty",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0476
+            },
+            {
+              "case": "singleton_found",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.035
+            },
+            {
+              "case": "singleton_absent",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0349
+            },
+            {
+              "case": "all_equal",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0312
+            },
+            {
+              "case": "negative_duplicates",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0293
+            },
+            {
+              "case": "ascending",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0282
+            },
+            {
+              "case": "descending",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0284
+            },
+            {
+              "case": "sample",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "limits",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0288
+            },
+            {
+              "case": "random_00",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "random_01",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.032
+            },
+            {
+              "case": "random_02",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "random_03",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "random_04",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0268
+            },
+            {
+              "case": "random_05",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0283
+            },
+            {
+              "case": "random_06",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "random_07",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "random_08",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0375
+            },
+            {
+              "case": "random_09",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0268
+            },
+            {
+              "case": "random_10",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0283
+            },
+            {
+              "case": "random_11",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "random_12",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0269
+            },
+            {
+              "case": "random_13",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0298
+            },
+            {
+              "case": "random_14",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_15",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.037
+            },
+            {
+              "case": "random_16",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0285
+            },
+            {
+              "case": "random_17",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0261
+            },
+            {
+              "case": "random_18",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.029
+            },
+            {
+              "case": "random_19",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0283
+            },
+            {
+              "case": "random_20",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0262
+            },
+            {
+              "case": "random_21",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0279
+            },
+            {
+              "case": "random_22",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0338
+            },
+            {
+              "case": "random_23",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0283
+            },
+            {
+              "case": "random_24",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0274
+            },
+            {
+              "case": "random_25",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0273
+            },
+            {
+              "case": "random_26",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "random_27",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0268
+            },
+            {
+              "case": "random_28",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.027
+            },
+            {
+              "case": "random_29",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0391
+            }
+          ]
+        },
+        "bai03": {
+          "status": "passed",
+          "passed": 44,
+          "failed": 0,
+          "seconds": 1.3131,
+          "cases": [
+            {
+              "case": "empty",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0331
+            },
+            {
+              "case": "singleton_found",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "singleton_absent",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.04
+            },
+            {
+              "case": "all_equal",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0268
+            },
+            {
+              "case": "negative_duplicates",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0282
+            },
+            {
+              "case": "ascending",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0265
+            },
+            {
+              "case": "descending",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "sample",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0273
+            },
+            {
+              "case": "limits",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0264
+            },
+            {
+              "case": "random_00",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0402
+            },
+            {
+              "case": "random_01",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0278
+            },
+            {
+              "case": "random_02",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_03",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0446
+            },
+            {
+              "case": "random_04",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0296
+            },
+            {
+              "case": "random_05",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.03
+            },
+            {
+              "case": "random_06",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0413
+            },
+            {
+              "case": "random_07",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.027
+            },
+            {
+              "case": "random_08",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "random_09",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "random_10",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0273
+            },
+            {
+              "case": "random_11",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "random_12",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0271
+            },
+            {
+              "case": "random_13",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0384
+            },
+            {
+              "case": "random_14",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0266
+            },
+            {
+              "case": "random_15",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.027
+            },
+            {
+              "case": "random_16",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0275
+            },
+            {
+              "case": "random_17",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0285
+            },
+            {
+              "case": "random_18",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0268
+            },
+            {
+              "case": "random_19",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.027
+            },
+            {
+              "case": "random_20",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0375
+            },
+            {
+              "case": "random_21",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_22",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0269
+            },
+            {
+              "case": "random_23",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0275
+            },
+            {
+              "case": "random_24",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0285
+            },
+            {
+              "case": "random_25",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "random_26",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0279
+            },
+            {
+              "case": "random_27",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0361
+            },
+            {
+              "case": "random_28",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0278
+            },
+            {
+              "case": "random_29",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "target_below",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0266
+            },
+            {
+              "case": "target_above",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "target_gap",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0283
+            },
+            {
+              "case": "duplicate_block_at_end",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0284
+            },
+            {
+              "case": "reject_unsorted",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0364
+            }
+          ]
+        },
+        "bai04": {
+          "status": "passed",
+          "passed": 47,
+          "failed": 0,
+          "seconds": 1.3661,
+          "cases": [
+            {
+              "case": "sample",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0331
+            },
+            {
+              "case": "k_one",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.03
+            },
+            {
+              "case": "k_n_vote_tie",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0377
+            },
+            {
+              "case": "k_two_vote_tie",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "singleton",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0275
+            },
+            {
+              "case": "distance_tie_reordered_ids",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "exact_match_tie",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0284
+            },
+            {
+              "case": "coordinate_extremes",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0291
+            },
+            {
+              "case": "random_00",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0286
+            },
+            {
+              "case": "random_01",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0328
+            },
+            {
+              "case": "random_02",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "random_03",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "random_04",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.029
+            },
+            {
+              "case": "random_05",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0286
+            },
+            {
+              "case": "random_06",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0294
+            },
+            {
+              "case": "random_07",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0315
+            },
+            {
+              "case": "random_08",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0293
+            },
+            {
+              "case": "random_09",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0274
+            },
+            {
+              "case": "random_10",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_11",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_12",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_13",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0273
+            },
+            {
+              "case": "random_14",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0278
+            },
+            {
+              "case": "random_15",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0325
+            },
+            {
+              "case": "random_16",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0271
+            },
+            {
+              "case": "random_17",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0288
+            },
+            {
+              "case": "random_18",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0279
+            },
+            {
+              "case": "random_19",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "random_20",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0276
+            },
+            {
+              "case": "random_21",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0272
+            },
+            {
+              "case": "random_22",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0354
+            },
+            {
+              "case": "random_23",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0282
+            },
+            {
+              "case": "random_24",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0273
+            },
+            {
+              "case": "random_25",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0287
+            },
+            {
+              "case": "random_26",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0283
+            },
+            {
+              "case": "random_27",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0281
+            },
+            {
+              "case": "random_28",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0277
+            },
+            {
+              "case": "random_29",
+              "status": "passed",
+              "returncode": 0,
+              "seconds": 0.0327
+            },
+            {
+              "case": "invalid_k_zero",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0287
+            },
+            {
+              "case": "invalid_k_negative",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0282
+            },
+            {
+              "case": "invalid_k_too_large",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0287
+            },
+            {
+              "case": "duplicate_id",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0293
+            },
+            {
+              "case": "unsupported_label",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0291
+            },
+            {
+              "case": "coordinate_below",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0276
+            },
+            {
+              "case": "coordinate_above",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0297
+            },
+            {
+              "case": "query_coordinate_below",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0279
+            },
+            {
+              "case": "query_coordinate_above",
+              "status": "passed",
+              "returncode": 1,
+              "seconds": 0.0296
+            }
+          ]
+        }
+      }
+    },
+    "C++17": {
+      "status": "failed",
+      "runtime": "C:\\msys64\\ucrt64\\bin\\g++.EXE",
+      "version": "g++.EXE (Rev5, Built by MSYS2 project) 16.1.0",
+      "exercises": {
+        "bai01": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 39,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\cpp\\bai01.cpp",
+          "cases": []
+        },
+        "bai02": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 39,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\cpp\\bai02.cpp",
+          "cases": []
+        },
+        "bai03": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 44,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\cpp\\bai03.cpp",
+          "cases": []
+        },
+        "bai04": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 47,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\cpp\\bai04.cpp",
+          "cases": []
+        }
+      }
+    },
+    "Julia": {
+      "status": "failed",
+      "runtime": "C:\\Users\\tai20\\AppData\\Local\\Microsoft\\WindowsApps\\julia.EXE",
+      "version": "julia version 1.12.6",
+      "exercises": {
+        "bai01": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 39,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\julia\\bai01.jl",
+          "cases": []
+        },
+        "bai02": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 39,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\julia\\bai02.jl",
+          "cases": []
+        },
+        "bai03": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 44,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\julia\\bai03.jl",
+          "cases": []
+        },
+        "bai04": {
+          "status": "failed",
+          "passed": 0,
+          "failed": 47,
+          "compile_error": "Source missing: C:\\ctdl\\thuc_hanh_buoi_1\\code\\julia\\bai04.jl",
+          "cases": []
+        }
+      }
+    }
+  },
+  "passed": 169,
+  "failed": 338,
+  "skipped_languages": 0
+}
